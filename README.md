@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @MessyConcept
-- 👀 I’m interested in: Learning programming languages to improve my skills and prepare myself for college
-- 🌱 I’m currently learning: Python, and I have experience with C++ 
-- 💞️ I’m looking to collaborate on: Nothing at the moment, but I am open to it in the future
-- 📫 How to reach me: Discord-- @messyconcept
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I started my C++ journey in March of 2024
+# Hi, I’m Jacqui
+
+I am a senior in high school who is interested in programming. I plan on going to college for Computer Science, and would like to improve my current skills as well as learn new ones.
+
+## About Me
+- I have experience with C++
+- I have been interested in CS since I was 14
+- I plan on attending ISU in the fall of 2026
+
+## Currently Learning
+- Python (via college course)
+- How to use Git/GitHub
+
+## How to reach me
+- Discord-- @messyconcept
+- Email-- latchjacqui@gmail.com
+
+Thank you for visiting my account.
 
 <!---
 MessyConcept/MessyConcept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
